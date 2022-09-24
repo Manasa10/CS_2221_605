@@ -1,0 +1,9 @@
+ab
+xaabb
+ac
+bc
+c
+abba
+abab
+xab
+aac
